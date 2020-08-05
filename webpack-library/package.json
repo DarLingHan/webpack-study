@@ -1,0 +1,21 @@
+{
+  "name": "@qtt/webpack-create-library-demo",
+  "publishConfig" : {
+    "registry" : "http://nexus.qutoutiao.net/repository/fe/"
+  },
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/ling-library-demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "han",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.19",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
