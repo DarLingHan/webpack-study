@@ -3,7 +3,7 @@
   "publishConfig" : {
     "registry" : "http://nexus.qutoutiao.net/repository/fe/"
   },
-  "version": "1.0.3",
+  "version": "1.0.8",
   "description": "",
   "main": "dist/ling-library-demo1.js",
   "scripts": {

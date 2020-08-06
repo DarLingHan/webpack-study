@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@qtt/webpack-create-library-demo": "^1.0.3",
+    "@qtt/webpack-create-library-demo": "^1.0.8",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }

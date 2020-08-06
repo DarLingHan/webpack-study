@@ -14,9 +14,9 @@ module.exports = [
         libraryTarget: 'umd'
     },
     devtool,
-    optimization: {
-        runtimeChunk: true
-    },
+    // optimization: {
+    //     runtimeChunk: true // 单独分离出webpack的一些运行文件
+    // },
     externals: {
         commonjs: 'lodash',
         commonjs2: 'lodash',
